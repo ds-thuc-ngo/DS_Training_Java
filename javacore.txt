@@ -1,0 +1,146 @@
+1.	Cài đặt mội trường ( 1 ngày)
+		JDK
+		IntelliJ
+2.	JDK, JRE, JVM (1 ngày)
+3.	Kiểu dữ liệu (1 ngày)
+		Primitive
+		Non-primitive
+		Wrapper class cho kiểu dữ liệu primitive. AutoBoxing and AutoUnboxing
+		Kích thước và khoảng giá trị của các kiểu dữ liệu primitive
+		Double vs BigDecimal
+4.	Biến (2 ngày)
+		Khai báo và gán giá trị cho biến
+		Toán tử
+		Các cách so sánh 2 biến
+		Type Casting
+5.	Memory (2 ngày)
+		Vùng nhớ Heap và Stack
+		String Pool
+6.	Câu lệnh điều kiện (1 ngày)
+		If…else if…else
+		Switch Case
+7.	Vòng lặp (1 ngày)
+		while, do…while
+		for
+8.	arrays.Arrays12 (1 ngày)
+		Mảng 1 chiều
+		Mảng 2 chiều
+		Lặp qua 1 mảng
+9.	Methods (3 ngày)
+		Sự khác nhau khi truyền giá trị Primitive vs Object
+		Method Overloading
+		Variable Argument
+		Method signature
+10.	Class (7 ngày)
+		Class Attributes
+		Class Methods
+		Constructors
+		Classes vs Objects
+		Package
+		Access Modifier
+		Static members, Static blocks
+		Final members
+		Kế thừa (Inheritance)
+		Constructors trong kế thừa
+		this vs super
+		Method Overloading và Overriding
+		Dynamic method dispatch (Polymorphism)
+		Cơ chế Upcasting và Downcasting
+		Abstract class
+		Interface
+		Inheritance vs implement Interface
+		Interface vs Abstract class
+		Inner Class
+		Anonymous Class
+		Singelton Class
+		Enum
+11.	Exception Handling (3 ngày)
+		Error vs Exception
+		Checked Exception and Unchecked Exception
+		try…catch…finally
+		throw vs throws
+		try with resources
+12.	Multithreading (7 ngày)
+		Thread class
+		Runnable interface
+		Thread lifecycle
+		Thread priority
+		Các method trong Thread class
+		Thread safe
+		Thread synchronization
+		Inter-Thread Communication
+		Deadlock
+		Thread pool
+		Executors
+13.	Annotations (3 ngày)
+		Annotations là gì
+		Built-in annotations
+		Custom annotations
+14.	Lambda Expressions (2 ngày)
+		Lambda Expressions là gì
+		Variables scope và Capturing Variables
+		Method Reference
+15	Java IO Streams (5 ngày)
+		InputStream, OutputStream
+		Reader, Writer
+		FileInputStream vs FileReader
+		FileOuputStream vs FileWriter
+		BufferedInputStream vs BufferedReader
+		BufferedOutputStream vs BufferedWriter
+		InputStreamReader
+		File handling: Create, Read, Write, Delete
+		Serialization
+		DataInputStream, DataOutputStream
+		ObjectInputStream, ObjectOutputStream
+		PipedInputStream, PipedOutputStream
+16.	Generics (4 ngày)
+		Generics là gì
+		Generic Class
+		Multiple parameter
+		Subtypes
+		Bounded types
+		Generic Method
+		WildCard
+		Lower Bound
+		Upper Bound
+17.	Collection (4 ngày)
+		List: ArrayList, LinkedList, Vector, Stack
+		Map: HashMap, LinkedHashMap, HashTable, TreeMap
+		Queue: PriorityQueue, ArrayQueue
+		Set: HashSet, LinkedHashSet, TreeSet
+		Iterator
+		Comparable
+		Comparator
+		StringTokenizer
+		Properties
+18.	Date and Time (3 ngày)
+		Date class
+		LocalDate, LocalTime, LocalDateTime
+		TimeZone, ZonedDateTime
+		Period, Duration
+		Date Formatter
+19.	Networking (4 ngày)
+		URL
+		URLConnection
+		InetAddress
+		Socket
+		ServerSocket
+		DatagramSocket
+		DatagramPacket
+		MulticastSocket
+20.	JDBC (7 ngày)
+		JDBC là gì
+		Kết nối db và thực thi query:
+		DriverManager, Driver, Connection, Statement, ResultSet
+		Connection pool
+		DataSource
+		PreparedStatement
+		CallableStatement
+		Transactions
+		Savepoint
+		Batch Processing
+21.	Bonus (5 ngày)
+		String vs String Buffer vs String Builder
+		java.util.Date vs java.sql.Date
+		Dependency Injection
+		JavaBeans
